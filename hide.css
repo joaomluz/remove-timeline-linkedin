@@ -1,0 +1,5 @@
+html.lsf-on.lsf-feed .lsf-hidden,
+html.lsf-on.lsf-feed main .scaffold-finite-scroll,
+html.lsf-on.lsf-feed main .feed-shared-update-v2 {
+  display: none !important;
+}
